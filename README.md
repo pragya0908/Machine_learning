@@ -1,4 +1,4 @@
-# Machine Learning Lab Exercises 🚀
+# Machine Learning Project🚀
 
 This repository contains a collection of Python scripts implementing fundamental machine learning, data processing, and data science techniques. These scripts were developed as part of a Machine Learning lab curriculum.
 
